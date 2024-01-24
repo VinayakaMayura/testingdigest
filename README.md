@@ -39,6 +39,7 @@ Helpful resources for Software testers
 * Impact Analysis: https://martinfowler.com/articles/rise-test-impact-analysis.html
 * Tutorial: https://artoftesting.com/software-testing-tutorial
 * AwesomeTesting: https://github.com/abhivaikar/howtheytest
+* LambdaTest Tutorials: https://www.lambdatest.com/learning-hub/
 * How to build Test Plan
 * How to Build Test Strategy
 
